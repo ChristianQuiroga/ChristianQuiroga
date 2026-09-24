@@ -2,7 +2,7 @@
 
 Soy **Backend Developer** con experiencia en desarrollo de software, integraciones entre sistemas, APIs y bases de datos.
 
-Trabajo principalmente con **C# / .NET, Node.js, APIs REST y SQL**, y actualmente estoy ampliando mi perfil con **React y desarrollo Front-End**.
+Trabajo principalmente con **C# / .NET, Node.js, REST APIs y SQL**, y actualmente estoy ampliando mi perfil con **React y desarrollo Front-End**.
 
 ## 🚀 Tecnologías principales
 
